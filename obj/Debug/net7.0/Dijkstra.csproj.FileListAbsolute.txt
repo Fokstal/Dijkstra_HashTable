@@ -1,0 +1,14 @@
+C:\Users\Fokstal\source\repos\Dijkstra\obj\Debug\net7.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fokstal\source\repos\Dijkstra\obj\Debug\net7.0\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\Fokstal\source\repos\Dijkstra\obj\Debug\net7.0\Dijkstra.AssemblyInfo.cs
+C:\Users\Fokstal\source\repos\Dijkstra\obj\Debug\net7.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Fokstal\source\repos\Dijkstra\bin\Debug\net7.0\Dijkstra.exe
+C:\Users\Fokstal\source\repos\Dijkstra\bin\Debug\net7.0\Dijkstra.deps.json
+C:\Users\Fokstal\source\repos\Dijkstra\bin\Debug\net7.0\Dijkstra.runtimeconfig.json
+C:\Users\Fokstal\source\repos\Dijkstra\bin\Debug\net7.0\Dijkstra.dll
+C:\Users\Fokstal\source\repos\Dijkstra\bin\Debug\net7.0\Dijkstra.pdb
+C:\Users\Fokstal\source\repos\Dijkstra\obj\Debug\net7.0\Dijkstra.dll
+C:\Users\Fokstal\source\repos\Dijkstra\obj\Debug\net7.0\refint\Dijkstra.dll
+C:\Users\Fokstal\source\repos\Dijkstra\obj\Debug\net7.0\Dijkstra.pdb
+C:\Users\Fokstal\source\repos\Dijkstra\obj\Debug\net7.0\Dijkstra.genruntimeconfig.cache
+C:\Users\Fokstal\source\repos\Dijkstra\obj\Debug\net7.0\ref\Dijkstra.dll
